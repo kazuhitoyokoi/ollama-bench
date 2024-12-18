@@ -30,7 +30,7 @@ codegemma
 deepseek-coder-v2
 phi
 llama2-uncensored
-deepseek-coder
+#deepseek-coder
 snowflake-arctic-embed
 wizardlm2
 dolphin-mistral
@@ -108,7 +108,7 @@ nexusraven
 nous-hermes2-mixtral
 codeup
 everythinglm
-granite3-dense
+#granite3-dense
 magicoder
 stablelm-zephyr
 codebooga
