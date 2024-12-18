@@ -52,7 +52,7 @@ wizard-vicuna-uncensored
 llama2-chinese
 bge-m3
 codegeex4
-openchat
+#openchat
 #aya
 codeqwen
 #nous-hermes2
@@ -125,7 +125,7 @@ notus
 open-orca-platypus2
 #goliath
 granite3-moe
-marco-o1
+#marco-o1
 nuextract
 aya-expanse
 dbrx
