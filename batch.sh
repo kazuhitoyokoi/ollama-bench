@@ -19,3 +19,4 @@ time curl -s http://localhost:11434/v1/chat/completions \
     }" | jq .choices[0].message.content
 sleep 10
 ollama rm $1
+sleep 10
