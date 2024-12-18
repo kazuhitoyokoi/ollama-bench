@@ -28,11 +28,11 @@ mixtral
 dolphin-mixtral
 codegemma
 deepseek-coder-v2
-phi
+#phi
 llama2-uncensored
 #deepseek-coder
 snowflake-arctic-embed
-wizardlm2
+#wizardlm2
 #dolphin-mistral
 #dolphin-llama3
 yi
