@@ -15,7 +15,8 @@ jobs:
       - name: Run a multi-line script
         run: |
           curl -fsSL https://ollama.com/install.sh | sh &> /dev/null
-          ollama serve &
+          ollama pull tinyllama
+          #ollama serve &
           #brew install ollama
           #brew services start ollama
           sleep 10
