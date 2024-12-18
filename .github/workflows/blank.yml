@@ -17,4 +17,4 @@ jobs:
           brew install ollama
           brew services start ollama
           sleep 10
-          cat models.txt | xargs -I{} sh -x batch.sh {}
+          cat models.txt | grep -v # | xargs -I{} sh -x batch.sh {}
