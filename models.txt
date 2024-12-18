@@ -44,7 +44,7 @@ phi3.5
 all-minilm
 codestral
 starcoder
-vicuna
+#vicuna
 #granite-code
 mistral-openorca
 smollm
