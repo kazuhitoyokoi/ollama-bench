@@ -10,7 +10,7 @@ time curl -s http://localhost:11434/v1/chat/completions \
             },
             {
                 \"role\": \"user\",
-                \"content\": \"Hello!\"
+                \"content\": \"こんにちは\"
             }
         ],
         \"max_tokens\": 1024
