@@ -19,6 +19,4 @@ jobs:
           brew install ollama
           brew services start ollama
           sleep 10
-          ollama ls
-          ollama pull granite-code
-          ollama ls
+          sh batch.sh llama3
