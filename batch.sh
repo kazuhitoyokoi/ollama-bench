@@ -8,11 +8,11 @@ time curl -s http://localhost:11434/v1/chat/completions \
         \"messages\": [
             {
                 \"role\": \"system\",
-                \"content\": \"You are a helpful assistant.\"
+                \"content\": \"あなたは優秀なAIアシスタントです。\"
             },
             {
                 \"role\": \"user\",
-                \"content\": \"こんにちは\"
+                \"content\": \"こんにちは。\"
             }
         ],
         \"max_tokens\": 1024
