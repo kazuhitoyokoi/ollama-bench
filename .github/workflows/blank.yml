@@ -19,4 +19,4 @@ jobs:
           brew install ollama
           brew services start ollama
           sleep 10
-          sh batch.sh llama3
+          sh -x batch.sh llama3
