@@ -26,6 +26,7 @@ data = {
     "max_tokens": 1024
 }
 
+print(f"{data}")
 # ヘッダー情報
 headers = {
     "Content-Type": "application/json"
