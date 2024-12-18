@@ -1,3 +1,4 @@
+echo $1
 sleep 10
 ollama pull $1 1> /dev/null 2> /dev/null
 sleep 10
