@@ -26,7 +26,7 @@ mxbai-embed-large
 starcoder2
 #mixtral
 dolphin-mixtral
-codegemma
+#codegemma
 #deepseek-coder-v2
 #phi
 llama2-uncensored
@@ -102,7 +102,7 @@ wizardlm-uncensored
 #llama-pro
 medllama2
 meditron
-llama3-groq-tool-use
+#llama3-groq-tool-use
 nemotron
 nexusraven
 nous-hermes2-mixtral
@@ -134,10 +134,10 @@ firefunction-v2
 alfred
 deepseek-v2.5
 shieldgemma
-bespoke-minicheck
+#bespoke-minicheck
 #llama-guard3
 paraphrase-multilingual
-opencoder
+#opencoder
 tulu3
 snowflake-arctic-embed2
 #granite3-guardian
