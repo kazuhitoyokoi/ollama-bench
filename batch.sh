@@ -9,7 +9,7 @@ time curl -s http://localhost:11434/v1/chat/completions \
         \"messages\": [
             {
                 \"role\": \"system\",
-                \"content\": \"あなたは優秀なAIアシスタントです。\"
+                \"content\": \"You are a helpful assistant.\"
             },
             {
                 \"role\": \"user\",
