@@ -61,7 +61,7 @@ mistral-large
 stable-code
 wizardcoder
 tinydolphin
-openhermes
+#openhermes
 qwen2-math
 glm4
 stablelm2
