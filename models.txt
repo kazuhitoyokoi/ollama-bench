@@ -51,7 +51,7 @@ smollm
 #wizard-vicuna-uncensored
 llama2-chinese
 bge-m3
-codegeex4
+#codegeex4
 #openchat
 #aya
 codeqwen
@@ -63,7 +63,7 @@ wizardcoder
 #tinydolphin
 #openhermes
 #qwen2-math
-glm4
+#glm4
 stablelm2
 bakllava
 reflection
