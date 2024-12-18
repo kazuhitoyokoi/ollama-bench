@@ -3,3 +3,4 @@ hf.co/elyza/Llama-3-ELYZA-JP-8B-GGUF
 hf.co/mmnga/tokyotech-llm-Llama-3.1-Swallow-8B-Instruct-v0.1-gguf
 hf.co/alfredplpl/llm-jp-3-3.7b-instruct-gguf
 hf.co/alfredplpl/gemma-2-baku-2b-it-gguf
+7shi/tanuki-dpo-v1.0
