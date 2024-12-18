@@ -34,4 +34,5 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
-          curl -fsSL https://ollama.com/install.sh | sh
+          #curl -fsSL https://ollama.com/install.sh | sh
+          brew install ollama
