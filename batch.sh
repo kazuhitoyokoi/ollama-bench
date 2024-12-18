@@ -14,5 +14,5 @@ time curl -s http://localhost:11434/v1/chat/completions \
             }
         ],
         \"max_tokens\": 1024
-    }"
+    }" | jq .choices[0].message.content
 ollama rm $1
