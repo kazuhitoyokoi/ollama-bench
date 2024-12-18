@@ -55,7 +55,7 @@ codegeex4
 openchat
 aya
 codeqwen
-nous-hermes2
+#nous-hermes2
 command-r-plus
 mistral-large
 stable-code
@@ -70,7 +70,7 @@ reflection
 deepseek-llm
 llama3-gradient
 wizard-math
-moondream
+#moondream
 neural-chat
 llama3-chatqa
 sqlcoder
@@ -85,7 +85,7 @@ starling-lm
 samantha-mistral
 hermes3
 yi-coder
-falcon
+#falcon
 internlm2
 solar
 llava-phi3
@@ -140,7 +140,7 @@ paraphrase-multilingual
 opencoder
 tulu3
 snowflake-arctic-embed2
-granite3-guardian
+#granite3-guardian
 exaone3.5
 sailor2
 falcon3
