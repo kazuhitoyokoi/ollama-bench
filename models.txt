@@ -13,13 +13,13 @@ nomic-embed-text
 gemma
 qwen
 qwen2
-phi3
+#phi3
 llama2
 qwen2.5
 #gemma2
 llava
 codellama
-qwen2.5-coder
+#qwen2.5-coder
 mistral-nemo
 tinyllama
 mxbai-embed-large
@@ -53,7 +53,7 @@ llama2-chinese
 bge-m3
 codegeex4
 openchat
-aya
+#aya
 codeqwen
 #nous-hermes2
 command-r-plus
