@@ -1,5 +1,5 @@
 ollama pull $1
-curl http://localhost:11434/v1/chat/completions \
+time curl http://localhost:11434/v1/chat/completions \
     -H "Content-Type: application/json" \
     -d '{
         "model": "$1",
