@@ -33,7 +33,7 @@ llama2-uncensored
 #deepseek-coder
 snowflake-arctic-embed
 wizardlm2
-dolphin-mistral
+#dolphin-mistral
 #dolphin-llama3
 yi
 command-r
