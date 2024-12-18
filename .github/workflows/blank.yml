@@ -5,15 +5,15 @@ on:
     - cron: '0 * * * *'
 jobs:
   build:
-    runs-on: macos-latest
-    #runs-on: ubuntu-latest
+    #runs-on: macos-latest
+    runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - name: Run a multi-line script
         run: |
-          #curl -fsSL https://ollama.com/install.sh | sh &> /dev/null
-          #ollama serve &
-          brew install ollama
-          brew services start ollama
+          curl -fsSL https://ollama.com/install.sh | sh &> /dev/null
+          ollama serve &
+          #brew install ollama
+          #brew services start ollama
           sleep 10
           cat models.txt | grep -v "#" | sort -R |xargs -I{} sh -x batch.sh {}
