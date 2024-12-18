@@ -34,7 +34,7 @@ deepseek-coder
 snowflake-arctic-embed
 wizardlm2
 dolphin-mistral
-dolphin-llama3
+#dolphin-llama3
 yi
 command-r
 orca-mini
@@ -45,7 +45,7 @@ all-minilm
 codestral
 starcoder
 vicuna
-granite-code
+#granite-code
 mistral-openorca
 smollm
 wizard-vicuna-uncensored
@@ -60,7 +60,7 @@ command-r-plus
 mistral-large
 stable-code
 wizardcoder
-tinydolphin
+#tinydolphin
 #openhermes
 qwen2-math
 glm4
@@ -68,7 +68,7 @@ stablelm2
 bakllava
 reflection
 deepseek-llm
-llama3-gradient
+#llama3-gradient
 wizard-math
 #moondream
 neural-chat
