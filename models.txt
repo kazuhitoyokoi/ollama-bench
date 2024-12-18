@@ -1,6 +1,4 @@
 tinyllama
-phi3.5
-llama3
 granite-code
 #-------
 llama3.3
