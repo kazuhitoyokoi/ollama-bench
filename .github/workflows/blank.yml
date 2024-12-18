@@ -18,6 +18,7 @@ jobs:
           #curl -fsSL https://ollama.com/install.sh | sh
           brew install ollama
           brew services start ollama
+          sleep 10
           ollama ls
           ollama pull granite-code
           ollama ls
