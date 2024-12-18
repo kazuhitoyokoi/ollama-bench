@@ -1,5 +1,6 @@
 tinyllama
 granite-code
+mistrallite
 #-------
 llama3.3
 qwq
@@ -7,7 +8,7 @@ llama3.2-vision
 llama3.2
 llama3.1
 llama3
-mistral
+#mistral
 nomic-embed-text
 gemma
 qwen
@@ -122,7 +123,7 @@ reader-lm
 notux
 notus
 open-orca-platypus2
-goliath
+#goliath
 granite3-moe
 marco-o1
 nuextract
