@@ -75,7 +75,7 @@ neural-chat
 llama3-chatqa
 sqlcoder
 xwinlm
-nous-hermes
+#nous-hermes
 phind-codellama
 yarn-llama2
 dolphincoder
@@ -98,7 +98,7 @@ mistral-small
 dolphin-phi
 wizardlm-uncensored
 #nemotron-mini
-yarn-mistral
+#yarn-mistral
 llama-pro
 medllama2
 meditron
@@ -143,4 +143,4 @@ snowflake-arctic-embed2
 #granite3-guardian
 exaone3.5
 sailor2
-falcon3
+#falcon3
