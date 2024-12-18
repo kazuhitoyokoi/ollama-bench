@@ -1,11 +1,8 @@
-name: CI
 on:
   push:
-    branches: [ "main" ]
-  pull_request:
-    branches: [ "main" ]
-  workflow_dispatch:
-
+    branches: [ main ]
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   build:
     runs-on: macos-latest
