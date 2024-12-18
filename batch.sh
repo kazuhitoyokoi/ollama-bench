@@ -9,7 +9,7 @@ curl -w -s http://localhost:11434/v1/chat/completions \
         \"messages\": [
             {
                 \"role\": \"user\",
-                \"content\": \"富士山の高さを教えてください。\"
+                \"content\": \"日立アカデミーとは\"
             }
         ],
         \"max_tokens\": 1024
