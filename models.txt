@@ -11,7 +11,7 @@ llama3
 #mistral
 nomic-embed-text
 gemma
-qwen
+#qwen
 qwen2
 #phi3
 llama2
@@ -62,7 +62,7 @@ stable-code
 wizardcoder
 #tinydolphin
 #openhermes
-qwen2-math
+#qwen2-math
 glm4
 stablelm2
 bakllava
@@ -92,7 +92,7 @@ llava-phi3
 athene-v2
 orca2
 minicpm-v
-stable-beluga
+#stable-beluga
 smollm2
 mistral-small
 dolphin-phi
