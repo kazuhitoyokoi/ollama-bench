@@ -2,7 +2,7 @@ echo $1
 sleep 10
 ollama pull $1 1> /dev/null 2> /dev/null
 sleep 10
-time curl -s http://localhost:11434/v1/chat/completions \
+curl -w -s http://localhost:11434/v1/chat/completions \
     -H "Content-Type: application/json" \
     -d "{
         \"model\": \"$1\",
