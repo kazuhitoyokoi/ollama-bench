@@ -97,7 +97,7 @@ smollm2
 mistral-small
 dolphin-phi
 wizardlm-uncensored
-nemotron-mini
+#nemotron-mini
 yarn-mistral
 llama-pro
 medllama2
