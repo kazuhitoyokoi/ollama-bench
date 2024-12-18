@@ -12,7 +12,7 @@ time curl -s http://localhost:11434/v1/chat/completions \
             },
             {
                 \"role\": \"user\",
-                \"content\": \"こんにちは。\"
+                \"content\": \"富士山の高さを教えてください。\"
             }
         ],
         \"max_tokens\": 1024
