@@ -8,10 +8,6 @@ time curl -s http://localhost:11434/v1/chat/completions \
         \"model\": \"$1\",
         \"messages\": [
             {
-                \"role\": \"system\",
-                \"content\": \"You are a helpful assistant.\"
-            },
-            {
                 \"role\": \"user\",
                 \"content\": \"富士山の高さを教えてください。\"
             }
