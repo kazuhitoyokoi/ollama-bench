@@ -1,5 +1,5 @@
 echo $1
-time sleep 10
+sleep 10
 ollama pull $1 1> /dev/null 2> /dev/null
 sleep 10
 time curl -s http://localhost:11434/v1/chat/completions \
