@@ -9,7 +9,7 @@ time curl -s http://localhost:11434/v1/chat/completions \
         \"messages\": [
             {
                 \"role\": \"user\",
-                \"content\": \"日立アカデミーとは\"
+                \"content\": \"Explain Japan in Japanese language\"
             }
         ],
         \"max_tokens\": 1024
