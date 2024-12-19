@@ -21,12 +21,11 @@ jobs:
           git clone https://github.com/ollama/ollama.git
           cd ollama
           make
-          ./ollama ls
-          cd ..
           #curl -fsSL https://ollama.com/install.sh | sh &> /dev/null
-          ollama serve &
+          ./ollama serve &
           #brew install ollama
           #brew services start ollama
           sleep 10
+          ./ollama pull granite-code
           cat models.txt | grep -v "#" | xargs -I{} sh batch.sh {}
           #sort -R | 
