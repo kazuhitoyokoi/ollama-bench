@@ -17,10 +17,15 @@ jobs:
           echo "LC_ALL=ja_JP.UTF-8" >> $GITHUB_ENV
           LANG=ja_JP.UTF-8
           LC_ALL=ja_JP.UTF-8
+          https://github.com/ollama/ollama.git
+          cd ollama
+          make
+          mv ollama ..
+          cd ..
           #curl -fsSL https://ollama.com/install.sh | sh &> /dev/null
-          #ollama serve &
-          brew install ollama
-          brew services start ollama
+          ollama serve &
+          #brew install ollama
+          #brew services start ollama
           sleep 10
           cat models.txt | grep -v "#" | xargs -I{} sh batch.sh {}
           #sort -R | 
