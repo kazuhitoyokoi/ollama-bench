@@ -1,2 +1,3 @@
 wizard-math:7b
 gemma:7b
+qwen2.5vl:7b
