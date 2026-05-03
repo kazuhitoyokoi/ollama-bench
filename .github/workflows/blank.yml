@@ -28,4 +28,4 @@ jobs:
           brew install ollama
           brew services start ollama
           sleep 10
-          curl -s "https://ollama.com/library?sort=newest" | awk -F'[<>]' '/group-hover:underline/ {m=$3} /x-test-size/ {print m ":" $3}'  | sort -R | xargs -I{} sh batch.sh {}
+          curl -s "https://ollama.com/library?sort=newest" | awk -F'[<>]' '/group-hover:underline/ {m=$3} /x-test-size/ {print m ":" $3}'  | sort -R | head -n 1 | xargs -I{} sh batch.sh {}
