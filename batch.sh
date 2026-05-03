@@ -23,7 +23,6 @@ echo $1 >> models.txt
 git pull
 git config --global user.email "kazuhitoyokoi@nodered.jp"
 git config --global user.name "Kazuhito Yokoi"
-node bin/join-catalogue.js
 git add models.txt
 git commit -m "Update catalogue $1"
 git push
