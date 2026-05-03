@@ -1,2 +1,3 @@
 granite3-guardian:8b
 internlm2:1.8b
+gemma4:31b
