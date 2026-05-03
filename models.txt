@@ -5,3 +5,4 @@ llava:7b
 llama3-chatqa:70b
 medgemma:4b
 duckdb-nsql:7b
+nuextract:3.8b
