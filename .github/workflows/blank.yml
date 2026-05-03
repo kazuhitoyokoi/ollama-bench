@@ -1,8 +1,8 @@
 on:
   push:
     branches: [ main ]
-  #schedule:
-    #- cron: '0 * * * *'
+  schedule:
+    - cron: '0 * * * *'
 jobs:
   build:
     runs-on: macos-latest
@@ -26,5 +26,4 @@ jobs:
           brew install ollama
           brew services start ollama
           sleep 10
-          curl -s "https://ollama.com/library?sort=newest" | awk -F'[<>]' '/group-hover:underline/ {m=$3} /x-test-size/ {print m ":" $3}'  | xargs -I{} sh batch.sh {}
-          #sort -R | 
+          curl -s "https://ollama.com/library?sort=newest" | awk -F'[<>]' '/group-hover:underline/ {m=$3} /x-test-size/ {print m ":" $3}'  | sort -R | xargs -I{} sh batch.sh {}
