@@ -17,3 +17,11 @@ time curl -s http://localhost:11434/v1/chat/completions \
 sleep 10
 ollama rm $1
 sleep 10
+
+git pull
+git config --global user.email "kazuhitoyokoi@nodered.jp"
+git config --global user.name "Kazuhito Yokoi"
+node bin/join-catalogue.js
+git add docs/*
+git commit -m "Update catalogue"
+git push
