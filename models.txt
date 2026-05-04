@@ -7,3 +7,4 @@ medgemma:4b
 duckdb-nsql:7b
 nuextract:3.8b
 snowflake-arctic-embed:33m
+mistral-nemo:12b
