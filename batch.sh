@@ -25,6 +25,6 @@ sleep 10
 git pull
 git config --global user.email "kazuhitoyokoi@nodered.jp"
 git config --global user.name "Kazuhito Yokoi"
-git add logs.txt
+git add logs/*
 git commit -m "Update catalogue $1"
 git push
