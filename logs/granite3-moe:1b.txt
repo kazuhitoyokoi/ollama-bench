@@ -1,2 +1,4 @@
 ---
 "Granite: Learning from Data to Beyond Intelligence is a state-of-the-art artificial intelligence language model developed by IBM. It is designed to understand and generate human-like text based on the data it has been trained on. This advanced AI model can be fine-tuned and adapted for various natural language processing tasks, making it a versatile tool in the field of machine learning."
+---
+"イエゾオンの代名詞です。私自身、私のコンピューター言語モデルである graniteが提供するように、我々のAIシステムに似ています。この単語は何を説明することができますか？ Granite によって訪問したものから信じている可能性があります。"
