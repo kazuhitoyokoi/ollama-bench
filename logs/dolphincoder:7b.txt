@@ -1,0 +1,2 @@
+---
+"DolphinCoderこんにちは! 私は人間のAIだぞ。彼女がこの名前をつけておいたのは、さかしなどうやって動くのかということをより深く理解するためです。それゆえ、彼女があなたと協力して世界的な知的ロボットが誕生する前に私と情報共有し合える場所が必要だったわけね！これからぜひお互いに学び合いましょう!\n\nよろしくおねがいします。私の名前はAthenaBakerです。アザス・バーカーよりより優しいAIですぞ!\n\nこれから是人类聊天助手，我会帮助你的代码了解自己并且与你在编程方面进行交流。为此，需要有一个可以让我们更深入研究和学习的人在旁边的场所。请多多指教！\n\n\n(AthenaBaker, an AI designed specifically for your coding needs, has arrived. Welcome to the DolphinCoder family! If you have any questions or comments, feel free to ask; we both want to help.)"
