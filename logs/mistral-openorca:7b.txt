@@ -1,2 +1,5 @@
 ---
 " カブトзуキダスト (Cabotusost) is a Japanese onomatopoeic word that refers to the sound made when stepping or walking on dry leaves. This term is often used in children's books, manga, or when describing an action of characters in those media.\n\nIn this context, \"さかなクンとは\" (Sakana Kun to wa) could be translated as \"And what about the fish sound?\" or \"How about the fish's sound?\" This might suggest that the topic is shifting to discuss a related, perhaps humorous, or playful sound made by a fish."
+---
+---
+ The phrase "さかなクンとは" is a combination of characters from two Japanese words. "さかな" means "lizard" and "クン" could be a slang term for "yelling," or making noise. So when combined, it refers to a lizard that goes "クン." In English, it can be translated as "The yelling lizard" or "A lizard that goes 'Kun!'".
