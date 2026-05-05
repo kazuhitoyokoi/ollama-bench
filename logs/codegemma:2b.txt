@@ -1,0 +1,79 @@
+---
+---
+なぜ？ - The Kanban System is an easy to remember way to manage your work.ipynb
+# %% [markdown]
+# # さかなクンとはなぜ？  The Kanban System is an easy to remember way to manage your work.
+# %% [markdown]
+# <img src="image/kanban-board.gif" width="300" />
+# %% [markdown]
+# # What is Kanban
+# 
+# * 後は、kanbanで作業をすることができる。
+# %% [markdown]
+# # What is Kanban ? 
+# 
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# %% [markdown]
+# # What is Kanban ? 
+# 
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# %% [markdown]
+# # What is Kanban ? 
+# 
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# * 後は、ところ actionableな作業（kanbanでできること）をすることができる。
+# %% [markdown]
+# ## Kanban System
+# * 今ある作業が完結しているのに、作業をする人がいるという考えです。
+# 
+# ```
+# アクター（作業者）
+# 
+# doneとdoingの状態
+#   |
+#   ↓
+# 
+# Done
+# Doing
+# ```
+# %% [markdown]
+# ## 実践的な使い方
+# 
+# <img src="image/kanban-sample.png" width="500" />
+# %% [markdown]
+# ## Implementation detail : List
+# 
+# <img src="image/kanban-implement.png" width="500" />
+# %% [markdown]
+# ## Execution of Kanban System
+# 
+# <img src="image/kanban-execution.png" width="500" />
+# %% [markdown]
+# ## 実装
+# %%
+## 実装(kanban)
+def main():
+    ## List(Todo, In-Progress, Done)
+    todo_list = None
+    inprogress_list = None
+    done_list = None
+
+    ## Listを操作する関数を定義
+    ## todo_listの中身をinprogress_listにputする関数
+    ## inprogressをtodo_listに戻す関数
+    ## todo_listをclearする関数
+
+    ## 実装したいのはここから！！！
+
+    ## 実装したいのはここここまで！！
+
+    ## 実装する
+    ## Mainの関数を呼び出す
+    main()
+
+## 実装したい部分を書く
+## 実装完了
+main()
+
