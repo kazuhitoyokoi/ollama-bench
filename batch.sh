@@ -17,7 +17,7 @@ time curl -s http://localhost:11434/v1/chat/completions \
             }
         ],
         \"max_tokens\": 1024
-    }" | jq .choices[0].message.content >> logs/$1.txt
+    }" | jq -r '.choices[0].message.content | select(. != null) | "---\n" + .' >> logs/$1.txt
 sleep 10
 ollama rm $1
 sleep 10
