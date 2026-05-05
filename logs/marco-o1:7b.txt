@@ -13,3 +13,4 @@ I should also consider if there are any popular media franchises or characters i
 <Output>
 さかなクン refers to "Little Fish Boy," a popular animated character from Japan who often appears in media aimed at children.
 </Output>
+---
