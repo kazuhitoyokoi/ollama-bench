@@ -5,3 +5,16 @@
 “hedge”とpronunciation.
 Hedgeは “hedgehog” (hedge mean  hedgehog in english)のTYPO(typographical error)です。
 typographical error(TYPO)とは、間違って打andedsimpleacheをprefixでtypo(間違い) prefixesに containedするerrorのcategoryです。
+---
+---
+Stable diffusionの ver1.4model
+stable diffusion 1.4とは、stable diffusion(SD)getlineation prompt(PL) promptに、 style image(SI)promptとrefimg(RI)の3つを promptに指定して使用します。  
+sd-1.4用 promptのlifecycleは SD2.0 から promptless(PL) promptsのonlymousdemenued featuresになり SD 1.5moelでdisableされました。SD2.1 moelwardsではSD 1.4moel promptが disableされ、 stable diffusionweelsの only menued featuresとなっています。
+
+ver1.3model
+stable diffusion 1.3はV-Prop(variational proplaml)etndoing of refinement image(RFI)提案 Visually-Guided Diffusion Pipeline (V-Propel)の ver0.1(SD2.0以前)をbase modelに、 additional prompt(addprompt)でstyle prompt prompt(SI prompt) ,refimg(RI prompt)をconcatentateしてinput promptとなります。  
+sd1.3のPROMPTlifecycleはSD2.0moedo disbaled されSD1,4model only menued featuresとなってsd1.5moeduo disable 
+
+ver1.2mode
+stable diffusion 1-2 moelis diffusin model。  
+diffusion modelのweight file(.pdparams)が大きいので、SD1 moelprompteterをOFFにするほうがPNR speedの向上に有効です。
