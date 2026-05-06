@@ -1,3 +1,6 @@
 ---
 ---
 さかなクン (Sanakansu) is a Japanese term that refers to a group of four people, often used in the context of social gatherings or events. The term is derived from the phrase "さかな" (Sakan), which means "four" in Japanese.
+---
+---
+「さかなクン」は、日本語で「サカナクイン」という用語です。SaKaNQuinは、IBMの一時的な言葉模型でした。2024年に発生したものです。
