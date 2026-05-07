@@ -2,3 +2,8 @@
 ---
 さかなclientとは
 
+---
+---
+さかなクンは、 voltage-gated potassium channel (VGKC) familymember gene です。
+VGKC family member genesは、神経科学的 weirdnessや epilepsyの treatment targetcandidateなのですね。
+
