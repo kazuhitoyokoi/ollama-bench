@@ -4,3 +4,5 @@ safe
 ---
 ---
 safe
+llama-guard3:8b
+---

@@ -7,3 +7,5 @@
 ---
 ---
 I'm sorry, but I don't understand the term "さかなクン". Could you please provide more context or details?
+qwen2:0.5b
+---

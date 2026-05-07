@@ -5,3 +5,5 @@
 ---
 ---
 "さかなクン" is a term that doesn't seem to have specific meaning or translation in any language, so providing facts about it might be difficult. If you could provide more context or clarify the term, I would be happy to help answer your question.
+phind-codellama:34b
+---
